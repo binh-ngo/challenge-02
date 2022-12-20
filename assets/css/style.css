@@ -163,6 +163,10 @@ h2 {
         flex-direction: column;
         margin-bottom: 5rem;
     }
+
+    #contact h2 {
+        padding-top: 7rem;
+    }
 }
 
 @media screen and (max-width: 950px) {
@@ -219,7 +223,8 @@ h2 {
     }
 
     #contact h2 {
-        margin-left: -1.5rem;
+        margin-left: -5.5rem;
+        padding-top: 6rem;
     }
 
     #contact-info li {
@@ -254,6 +259,6 @@ h2 {
     }
 
     #contact h2 {
-        padding-top: 3rem;
+        padding-top: 8rem;
     }
 }
