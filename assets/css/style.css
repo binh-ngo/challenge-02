@@ -92,11 +92,13 @@ h2 {
     display: flex;
     justify-content: flex-end;
     align-items: flex-end;
+    opacity: 50%;
 }
 
 #portfolio-content .card img {
     width: 400px;
     height: 200px;
+    opacity: 50%;
 }
 
 #portfolio-content .project-text {
@@ -137,7 +139,12 @@ h2 {
 
 #portfolio-content img:hover {
     border: 3px solid white;
+    opacity: 100%;
 }
+#portfolio-content #main-card img:hover {
+    opacity: 100%;
+}
+
 @media screen and (max-width: 1145px) {
     #portfolio-content #main-card img{ 
         width: 700px;
