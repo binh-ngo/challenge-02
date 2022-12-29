@@ -145,6 +145,39 @@ h2 {
     opacity: 100%;
 }
 
+@media screen and (max-width: 1920px) {
+    #portfolio-content #main-card img { 
+        width: 1200px;
+        height: 600px;
+    }
+    #portfolio-content .card img {
+        width: 600px;
+        height: 300px;
+    }
+}
+
+@media screen and (max-width: 1720px) {
+    #portfolio-content #main-card img { 
+        width: 1000px;
+        height: 500px;
+    }
+    #portfolio-content .card img {
+        width: 500px;
+        height: 250px;
+    }
+}
+
+@media screen and (max-width: 1500px) {
+    #portfolio-content #main-card img { 
+        width: 900px;
+        height: 450px;
+    }
+    #portfolio-content .card img {
+        width: 450px;
+        height: 220px;
+    }
+}
+
 @media screen and (max-width: 1145px) {
     #portfolio-content #main-card img{ 
         width: 700px;

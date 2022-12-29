@@ -6,7 +6,7 @@ Here is a rough draft of a portfolio website that I will later use to store my v
 
 ## Screenshot and Link to Deployed Website
 Screenshot:
-[binhsta github io_challenge-02_](https://user-images.githubusercontent.com/114514760/208583051-2ed02242-9176-439b-b93f-6a876dd4260d.png)
+![binhsta github io_challenge-02_](https://user-images.githubusercontent.com/114514760/208583051-2ed02242-9176-439b-b93f-6a876dd4260d.png)
 
 Link to deployed website:
 https://binhsta.github.io/challenge-02/
